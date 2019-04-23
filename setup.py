@@ -25,12 +25,12 @@ import codecs
 
 """
 setup module for core.
-Created on 5/23/2018
+Created on 4/23/2019
 @author: antopen
 """
 PACKAGE = "alipay"
-NAME = "alipay-sdk-python"
-DESCRIPTION = "The official Aliyun SDK for Python."
+NAME = "alipay-python"
+DESCRIPTION = "a Copy of The official Aliyun SDK for Python."
 AUTHOR = "antopen"
 AUTHOR_EMAIL = "antopen@aliyun.com"
 URL = "https://github.com/alipay/alipay-sdk-python-all"
